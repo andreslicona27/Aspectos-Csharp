@@ -1,0 +1,15 @@
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+E:\DAM\Segundo Año\Desenvolvimiento de Interfaces\Trimestre_1\Tema 3\Ejercicios_Tema_3\Ejercicio2\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
